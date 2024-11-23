@@ -1,5 +1,7 @@
 ## Hi there 👋
+*hello,I'm JingJIng-bot*
 
+***I want to learn something interesting here***
 <!--
 **JingJing-bot/JingJing-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
